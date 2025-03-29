@@ -1,0 +1,58 @@
+body {
+    font-family: fantasy,serif,sans-serif;
+    background-color: bisque;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+    font-weight: 100;
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+div {
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+    margin-left: auto ;
+    margin-right: auto;
+    background-color: #deb887;
+}
+
+ul{
+    background-color: burlywood;
+    padding: 20px;
+}
+
+
+.FR, .FF {
+    padding: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    background-color:#f3e3cf;
+    border: 1px solid black;
+}
+
+
+.O {
+    padding: 10px;
+    text-align: center;
+    background-color: #f3e3cf;
+    border: 1px solid black;
+}
